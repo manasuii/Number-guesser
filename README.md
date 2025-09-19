@@ -1,2 +1,2 @@
 # Number-guesser
-#greeter
+#gchecks the time of the days and gives appproriate greeting accoring to the given time
