@@ -4,3 +4,4 @@
 #simple multiplication table generator
 #changes your message to a secrete code
 #secret encoder and decoder
+#use of enumerate function
